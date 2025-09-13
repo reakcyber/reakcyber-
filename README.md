@@ -32,7 +32,7 @@ I'm a passionate **Developer**, **Data Scientist**, **Software Engineer**, and *
 Beyond coding, I have a wide range of hobbies and passions that keep me inspired and creative!
 
 <!-- GitHub Stats Card -->
-![p-lychong's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-lychong&show_icons=true&theme=radical)
+![p-lychong's GitHub stats](https://github-readme-stats.vercel.app/api?username=reakcyber&show_icons=true&theme=radical)
 
 ---
 
